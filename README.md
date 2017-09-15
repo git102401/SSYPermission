@@ -13,6 +13,6 @@ allprojects {
 ```Java
 dependencies {
     ...
-    compile 'com.github.qingwu13:SSYPermission:v1.0'
+    compile 'com.github.qingwu13:SSYPermission:latest.release'
 }
 ```
